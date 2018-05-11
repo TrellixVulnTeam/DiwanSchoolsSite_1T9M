@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% load static %}
 <html>
     <head>
         <title> Here is a less arbitrary title </title>
@@ -16,12 +17,10 @@
         Bienvenue!!
     </a>
 
-<a>
-                              <img src="/static/images/intro/entrance_1.jpg"
+       <img src="{% static "/static/images/intro/entrance_1.jpg"
                                   alt="ohnothevaluerestriction"
                                   width="1000"
-                                  height="400">
-            </a>
+                                  height="400" %}"/>
 
 
 
