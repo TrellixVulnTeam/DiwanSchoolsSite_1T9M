@@ -134,6 +134,7 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
+    os.path.join(PROJECT_ROOT, 'instaclone/static'),
     '/Users/brian/instaclone-3/instaclone/static/'
 )
 
