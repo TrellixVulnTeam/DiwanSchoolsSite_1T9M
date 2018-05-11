@@ -16,8 +16,9 @@
     border-bottom: none;
     border-top: none; 
     padding: 5px;
-    border-image-source: 
-    url('https://drive.google.com/file/d/1Cv7i38fnBhOmKyKr7xALvi0P5wONTbgr/preview');
+    border-image-source:
+    {% load static %}
+    url("{% static "images/edited.jpg" %}");
     
     border-image-repeat: repeat;
     border-image-slice: 82;
