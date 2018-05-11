@@ -1,1 +1,1 @@
-web: gunicorn instaclone.instaclone.wsgi
+web: gunicorn /instaclone/instaclone/wsgi
