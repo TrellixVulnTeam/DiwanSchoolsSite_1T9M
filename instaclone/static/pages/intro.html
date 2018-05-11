@@ -16,8 +16,8 @@
     border-bottom: none;
     border-top: none; 
     padding: 5px;
-    border-image-source:
     {% load static %}
+    border-image-source:
     url("{% static "images/edited.jpg" %}");
     
     border-image-repeat: repeat;
@@ -90,7 +90,9 @@
                     </h2>
                    <p align="center">
                             <a>
-                            <img src="/static/images/intro/entrance_1.jpg" 
+                            {% load static %}
+                            <img src=
+                            "{% static "images/intro/entrance_1.jpg" %}"
                                 alt="ohnothevaluerestriction" 
                                 width="1000" 
                                 height="400">
