@@ -1,1 +1,1 @@
-web: gunicorn testtt82305.wsgi
+web: gunicorn testtt82305.wsgi --log-file -
