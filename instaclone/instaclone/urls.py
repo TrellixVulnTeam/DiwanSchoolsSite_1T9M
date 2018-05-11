@@ -21,9 +21,7 @@ from instaclone.views import HomePage
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^$', HomePage.as_view())
+    url(r'^$', HomePage.as_view()),
+    url(r'^static/(?P.*)$', 'django.views.static.serve')
 ]
 
-urlpatterns += patterns('',
- (r'^static/(?P.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
- )
