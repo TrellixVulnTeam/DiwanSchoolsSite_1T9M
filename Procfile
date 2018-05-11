@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath testtt82305.wsgi
+web: gunicorn --pythonpath instaclone instaclone.wsgi
