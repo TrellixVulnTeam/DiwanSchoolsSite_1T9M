@@ -1,5 +1,5 @@
 # 82305
-This is where I am backing up some of my code for CMU's class, 82305 - French in its Social Contexts.
+This repository is for the site I built for CMU's class, 82305 - French in its Social Contexts.
 For my project, I wanted to learn how to create my own website,
 something that I had never done before. I am currently using Heroku to host my site -
 it is currently rather slow, but it's free!
