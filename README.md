@@ -1,14 +1,15 @@
-# 82305
-This repository is for the site I built for CMU's class, 82305 - French in its Social Contexts.
-For my project, I wanted to learn how to create my own website,
-something that I had never done before. I am currently using Heroku's services to host my site -
+# About
+This repository is for the site I built as a project for a
+french class at Carnegie Mellon University, French in its Social Contexts (82-305).
+For my project, I wanted to learn how to create a website,
+which I had never done before. I am currently using Heroku's services to host my site -
 it is currently rather slow, but it's free!
 
-During my sophmore spring semester, eight other class
-members and I went to Nantes, France for our spring break to collect data for our projects,
-as well as to learn more about French culture (it was my first time there).
-I chose my project to be on [Diwan immersion schools](https://en.wikipedia.org/wiki/Diwan_(school)).
+I took the class during my sophomore spring. The goal of the class to create an interactive
+project to help others learn more about French language and culture.
+We were lucky enough to go to Nantes during our spring break to gather materials for our projects.
+I chose my project to be on [Diwan immersion schools](https://en.wikipedia.org/wiki/Diwan_(school).
 While I was in France, I went to an elementary school and a middle school and interviewed the principals there,
-as well as some other staff on the school. So please check out
+as well as some other staff members. So please check out
 [my site](https://diwan82305.herokuapp.com/static/pages/main.html)
-to see my interviews and pictures and read about some of my research along the way.
+to see my interviews, photographs, and some of my research along the way.
