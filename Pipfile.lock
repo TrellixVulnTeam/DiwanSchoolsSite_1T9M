@@ -38,7 +38,7 @@
                 "sha256:ac4c797a328a5ac8777ad61bcd00da279773455cc78b4058de2a9842a0eb6ee8"
             ],
             "index": "pypi",
-            "version": "==1.11.10"
+            "version": "==1.11.22"
         },
         "gunicorn": {
             "hashes": [
