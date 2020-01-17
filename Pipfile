@@ -14,7 +14,7 @@ pytz = "==2018.3"
 virtualenv = "==15.2.0"
 virtualenv-clone = "==0.3.0"
 whitenoise = "==3.3.1"
-Django = "==1.11.23"
+Django = ">=1.11.27"
 
 [dev-packages]
 
